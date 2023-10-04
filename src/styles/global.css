@@ -1,0 +1,59 @@
+.response {
+  border: 1px solid black;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px;
+}
+.button {
+  border: 1px solid black;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px;
+  background-color: none;
+}
+.select {
+  height: 30px;
+  margin: 10px;
+  border: 1px solid black;
+  font-size: 18px;
+  color: black;
+  background-color: transparent;
+  border-radius: 5px;
+}
+
+.newQuizz {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.total {
+  width: 30%;
+  margin: 10px auto;
+  padding: 15px;
+  text-align: center;
+}
+
+.primary,
+.high {
+  background-color: green;
+  color: white;
+}
+
+.fail,
+.low {
+  background-color: red;
+  color: white;
+}
+
+.medium {
+  background-color: yellow;
+  color: black;
+}
